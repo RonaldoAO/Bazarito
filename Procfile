@@ -1,1 +1,1 @@
-web: java -Dspring.profiles.active=default -Dserver.port=$PORT -jar target/*.war
+web: java -jar target/Bazaritov3-1.war
