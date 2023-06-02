@@ -1,0 +1,14 @@
+datos\UsuarioJpaController.class
+datos\ControladoraPersistencia.class
+datos\exceptions\IllegalOrphanException.class
+domain\Producto_.class
+web\SvProductos.class
+web\SvUsuario.class
+datos\exceptions\NonexistentEntityException.class
+domain\Usuario_.class
+test\main.class
+domain\Controladora.class
+domain\Usuario.class
+domain\Producto.class
+datos\exceptions\PreexistingEntityException.class
+datos\ProductoJpaController.class
