@@ -1,1 +1,0 @@
-web: java -jar target/Bazaritov3-1.war
